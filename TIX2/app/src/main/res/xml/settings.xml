@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="@string/pref_sound"
+        android:title="@string/sound_group"
+        android:defaultValue="1"
+        android:entries="@array/sound_names"
+        android:entryValues="@array/sound_indexes"
+        android:dialogTitle="@string/sound_group"/>
+
+    <ListPreference
+        android:key="@string/pref_label"
+        android:title="@string/button_label_group"
+        android:defaultValue="1"
+        android:entries="@array/button_labels"
+        android:entryValues="@array/button_labels"
+        android:dialogTitle="@string/pref_label"/>
+
+</PreferenceScreen>

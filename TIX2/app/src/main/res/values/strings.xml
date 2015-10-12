@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">This is Хорошо remake!</string>
+    <string name="sound_hint">*Do not forget to turn the sound!</string>
+    <string name="pref_sound" translatable="false">pref_sound</string>
+    <string name="pref_label" translatable="false">pref_label</string>
+    <string name="action_about">Who make this shit!?</string>
+
+    <string name="sound_name_1">И это хорошо!</string>
+    <string name="sound_name_2">Сиськи в конце)</string>
+    <string name="sound_name_3">Та-Дум-ТСссс..</string>
+
+    <string name="sound_file_1" translatable="false">tix.mp3</string>
+    <string name="sound_file_2" translatable="false">tinn.mp3</string>
+    <string name="sound_file_3" translatable="false">badadum.ogg</string>
+
+    <string name="settings_tittle">Settings!</string>
+    <string name="label_1">TOUCH ME</string>
+    <string name="label_2">TOUCH MATHERHUCKER</string>
+    <string name="label_3">TOUCH IT</string>
+    <string name="label_4">FUCK THIS BUTTON</string>
+    <string name="label_5">UHAHAAA</string>
+
+    <string name="sound_group">Select sound</string>
+    <string name="button_label_group">Button text</string>
+</resources>

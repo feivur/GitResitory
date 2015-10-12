@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_hint">*Не забудь включить звук!</string>
+
+    <string name="settings_tittle">Настроечки!</string>
+    <string name="sound_group">Звук по кнопке</string>
+    <string name="button_label_group">Текст на кнопке</string>
+
+
+    <string name="label_1">ТРОГНИ</string>
+    <string name="label_2">ТАПНИ</string>
+    <string name="label_3">ТЫКНИ</string>
+    <string name="label_4">И ЭТО ХОРОШО!</string>
+    <string name="label_5">ОПА!</string>
+
+    <string name="action_about">Кто это сделал?</string>
+    <string name="sound_name_1">И это хорошо!</string>
+    <string name="sound_name_2">Сиськи в конце)</string>
+    <string name="sound_name_3">Та-Дум-ТСссс..</string>
+</resources>

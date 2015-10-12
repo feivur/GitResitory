@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_file_names">
+        <item>@string/sound_file_1</item>
+        <item>@string/sound_file_2</item>
+        <item>@string/sound_file_3</item>
+    </string-array>
+    <string-array name="sound_names">
+        <item>@string/sound_name_1</item>
+        <item>@string/sound_name_2</item>
+        <item>@string/sound_name_3</item>
+    </string-array>
+    <string-array name="sound_indexes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="button_labels">
+        <item>@string/label_1</item>
+        <item>@string/label_2</item>
+        <item>@string/label_3</item>
+        <item>@string/label_4</item>
+        <item>@string/label_5</item>
+    </string-array>
+
+</resources>
